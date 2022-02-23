@@ -29,7 +29,7 @@ pip install package_name
 We have used Kaggle Extended Cohn-Kanade Dataset (CK+) dataset, it can be obtained from here https://www.kaggle.com/shawon10/ckplus.
 
 ## Results
-We have obtained 100% accuracy using both hold-out, and cross-validation.
+We have obtained high accuracy using both hold-out, and cross-validation.
 
 ## Author
 
