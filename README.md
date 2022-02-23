@@ -33,10 +33,8 @@ We have obtained 100% accuracy using both hold-out, and cross-validation.
 
 ## Author
 
-* Name: Dr. BOUCHENE Mohammed Mehdi
+* Name: Dr. BOUCHENE Mohammed Mehdi(Ph.D)
 * Email: bouchenemahdi@gmail.com
 * Affiliation: Laboratoire des Telecommunications (LT), Universite 8 mai 1945 Guelma
 * Google Scholar: https://scholar.google.com/citations?user=vje200AAAAAJ&hl=en
 * Researchgate: https://www.researchgate.net/profile/Mohammed-Mehdi-Bouchene?ev=hdr_xprf&_sg=-NYvusjX3arMLz-Ne5bkRW1Nzu7F4NwJeBoOReMNM9h9C3VdWjZSeTIDvUqORM8C6suYJwCeSVLFJcUxocZAQfi6
-* 
-
