@@ -2,7 +2,7 @@
 
 ## Description
 
-Facial expressions are a form of nonverbal communication. The human face is extremely expressive, able to convey countless emotions without saying a word. And unlike some forms of nonverbal communication, facial expressions are universal. Human facial expression could arguably be classified into seven classes: neutral, sadness, surprise, happiness, fear, anger, contempt and disgust.
+Facial expressions are a form of nonverbal communication. The human face is extremely expressive, able to convey countless emotions without saying a word. And unlike some forms of nonverbal communication, facial expressions are universal. Human facial expression could arguably be classified into seven classes: sadness, surprise, happiness, fear, anger, contempt and disgust.
 
 ## Objective
 Automatic Facial-expression-recognition concerns matching a face against one of above classes using machine learning and computer vision techniques. 	
