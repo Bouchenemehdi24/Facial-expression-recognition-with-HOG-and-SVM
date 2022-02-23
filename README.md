@@ -12,6 +12,8 @@ We have used histogram of oriented gradients descriptor features and support vec
 
 ### Dependencies
 
+Python 3.6 or newer.
+
 * numpy
 * imutils
 * OpenCV
@@ -25,3 +27,10 @@ We have used Kaggle Extended Cohn-Kanade Dataset (CK+) dataset, it can be obtain
 
 ## Results
 We have obtained 100% accuracy using both hold-out, and cross-validation.
+
+## Author
+BOUCHENE MOhammed Mehdi
+Email: bouchenemahdi@gmail.com
+Affiliation: Laboratoire des Telecommunications (LT), Universite 8 mai 1945 Guelma
+
+## Author
