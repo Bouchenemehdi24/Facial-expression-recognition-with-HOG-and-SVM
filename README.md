@@ -18,6 +18,7 @@ We have used histogram of oriented gradients descriptor features and support vec
 Python 3.6 or newer.
 
 * numpy
+* pickle
 * imutils
 * OpenCV
 * scikit-learn 
